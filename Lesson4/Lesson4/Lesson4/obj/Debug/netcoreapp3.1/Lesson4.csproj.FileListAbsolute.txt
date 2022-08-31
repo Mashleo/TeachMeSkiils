@@ -1,0 +1,13 @@
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.exe
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.deps.json
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.runtimeconfig.json
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.runtimeconfig.dev.json
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.dll
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.pdb
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.csproj.AssemblyReference.cache
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.AssemblyInfoInputs.cache
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.AssemblyInfo.cs
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.dll
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.pdb
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\Lesson4\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.genruntimeconfig.cache
