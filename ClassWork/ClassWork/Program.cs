@@ -44,7 +44,7 @@ namespace ClassWork
             ////Char9 Ex9
             //HomeWokrChar9.CheckPrime(HomeWokrChar9.EnterFirstValue());
             ////Char9 Ex10
-            //HomeWokrChar9.SumIndividualDigits(HomeWokrChar9.EnterString()); //ЕСТЬ ВЛПРОС
+            HomeWokrChar9.SumIndividualDigits(HomeWokrChar9.EnterString()); //ЕСТЬ ВЛПРОС
 
 
 
